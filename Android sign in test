@@ -1,7 +1,7 @@
-id: c0LSayHQ2EuYVdtYi7RUcg
+id: _UXkMF-fLUOXOX1dXbXGFw
 projectId: ZzuNUCJAo0SJCrwqbM9SHQ
 projectName: Android Automation
-created: 2022-04-14T18:11:19.3930987Z
+created: 2022-04-14T18:12:10.4131986Z
 protocol: 1
 tests:
 - id: rOjdc_TE_U2nPpOhc-xaEA
@@ -12,7 +12,7 @@ tests:
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-04-14T18:01:42.0000000
-  modificationDate: 2022-04-14T18:06:15.0000000
+  modificationDate: 2022-04-14T18:11:49.0000000
   settings:
     automationAssistant: true
     deviceId: R5CRC2BN6GZ
@@ -87,7 +87,7 @@ tests:
       source: System
     parameterMaps:
     - name: keys
-      value: bat@qa2.clari.com
+      value: '{{bat}}'
       direction: Input
     conditions: []
     validations: []
@@ -243,6 +243,10 @@ tests:
   parameters:
   - name: loginpswd
     description: ''
+    type: Input
+  - name: bat
+    description: ''
+    value: bat@qa2.clari.com
     type: Input
 auxTests: []
 elements:
