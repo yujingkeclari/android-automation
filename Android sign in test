@@ -1,7 +1,7 @@
-id: PvP9lg86iU6OJDRpDRsVTg
+id: x7ncVytaSkqwdJ9_f66ocA
 projectId: ZzuNUCJAo0SJCrwqbM9SHQ
 projectName: Android Automation
-created: 2022-04-14T18:01:42.6479328Z
+created: 2022-04-14T18:01:46.6673184Z
 protocol: 1
 tests:
 - id: rOjdc_TE_U2nPpOhc-xaEA
@@ -12,9 +12,10 @@ tests:
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-04-14T18:01:42.0000000
-  modificationDate: 2022-04-14T18:01:42.0000000
+  modificationDate: 2022-04-14T18:01:46.0000000
   settings:
     automationAssistant: true
+    deviceId: R5CRC2BN6GZ
     appId: N74yUWv4JkW0BQYyDBNz1A
     stepSleepTime: 500
     stepTimeout: 15000
