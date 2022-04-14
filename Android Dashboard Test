@@ -1,7 +1,7 @@
-id: Zs6VdWFNcEq5VUjDhqPA4g
+id: mY_2P5fae0y_pnev1ccgvA
 projectId: ZzuNUCJAo0SJCrwqbM9SHQ
 projectName: Android Automation
-created: 2022-04-14T20:00:57.6211038Z
+created: 2022-04-14T20:12:27.5372766Z
 protocol: 1
 tests:
 - id: ibzDeJpmVEiwgYIaIaFySA
@@ -690,7 +690,7 @@ auxTests:
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-04-14T18:01:42.0000000
-  modificationDate: 2022-04-14T18:11:49.0000000
+  modificationDate: 2022-04-14T20:07:02.0000000
   settings:
     automationAssistant: true
     deviceId: R5CRC2BN6GZ
@@ -721,10 +721,274 @@ auxTests:
     conditions: []
     validations: []
     contexts: []
-  - id: vcUPbyStFUaxchCAlI4EzQ
+  - id: qASJEmXXWUaiVzgnNwfmzw
     enabled: true
     invertResult: false
     order: 2
+    repeat: 1
+    type: Action
+    elementId: NDeEejhg8EGc8yLbm5AjVA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: CWDoBWjioU6vdJtkpI1DMw
+    enabled: true
+    invertResult: false
+    order: 3
+    repeat: 1
+    type: Action
+    elementId: NDeEejhg8EGc8yLbm5AjVA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: zEbd2izOfkC_9N5s75C-eg
+    enabled: true
+    invertResult: false
+    order: 4
+    repeat: 1
+    type: Action
+    elementId: NDeEejhg8EGc8yLbm5AjVA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: J4NwVAnEKECMtCUws6nEew
+    enabled: true
+    invertResult: false
+    order: 5
+    repeat: 1
+    type: Action
+    elementId: NDeEejhg8EGc8yLbm5AjVA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: zC_2Y6m_Y0-U5DZnHfN2Nw
+    enabled: true
+    invertResult: false
+    order: 6
+    repeat: 1
+    type: Action
+    elementId: NDeEejhg8EGc8yLbm5AjVA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: MrsGel0C5UyJli1gTd7Szw
+    enabled: true
+    invertResult: false
+    order: 7
+    repeat: 1
+    type: Action
+    elementId: NDeEejhg8EGc8yLbm5AjVA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: pGVbW_CpZ0qnfcIYc7MNoQ
+    enabled: true
+    invertResult: false
+    order: 8
+    repeat: 1
+    type: Action
+    elementId: NDeEejhg8EGc8yLbm5AjVA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: cAdgyLuEKEKvqWlXNXBrTw
+    enabled: true
+    invertResult: false
+    order: 9
+    repeat: 1
+    type: Action
+    elementId: rsdCGvXntUydYbn9OV2zYA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: VMSY65BIuESo7JimV0SPWw
+    enabled: true
+    invertResult: false
+    order: 10
+    repeat: 1
+    type: Action
+    elementId: We60zkl0UkmgGNhjtgxfjA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: dORP62EhoUaJK80QUXcusA
+    comments: ''
+    enabled: true
+    invertResult: false
+    order: 11
+    repeat: 1
+    type: Action
+    elementId: We60zkl0UkmgGNhjtgxfjA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 511ddb4e-210f-4f3f-9fb9-b766bb23ee6a
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: TMXl2HdMHUySPuusMvOrzA
+    enabled: true
+    invertResult: false
+    order: 12
+    repeat: 1
+    type: Action
+    elementId: We60zkl0UkmgGNhjtgxfjA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 6f94fdaa-0041-4265-b73b-ecfcbe702d66
+      source: System
+    parameterMaps:
+    - name: keys
+      value: https://gateway-steelix.clari.com
+      direction: Input
+    conditions: []
+    validations: []
+    contexts: []
+  - id: vl8QB3Sqi0alqGldIpaAbQ
+    enabled: true
+    invertResult: false
+    order: 13
+    repeat: 1
+    type: Action
+    elementId: qxZTvmffs0-QNNQC-A9d8w
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: zNQ6C2UUZkO0mdSA7pmmtg
+    enabled: true
+    invertResult: false
+    order: 14
+    repeat: 1
+    type: Action
+    elementId: 3Pqso6oFTUusWuvNDQPRqQ
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: vcUPbyStFUaxchCAlI4EzQ
+    enabled: true
+    invertResult: false
+    order: 15
     repeat: 1
     type: Action
     elementId: dzYB7Erog02LIr_FDCJ7SQ
@@ -744,7 +1008,7 @@ auxTests:
   - id: Jl1kT-7KQk6x5IhkVbuC7Q
     enabled: true
     invertResult: false
-    order: 3
+    order: 16
     repeat: 1
     type: Action
     elementId: dzYB7Erog02LIr_FDCJ7SQ
@@ -764,32 +1028,10 @@ auxTests:
     conditions: []
     validations: []
     contexts: []
-  - id: H0VsCGZsMkWr8DkynL039g
-    enabled: false
-    invertResult: false
-    order: 4
-    repeat: 1
-    type: Action
-    settings:
-      sleepTime: -1
-      timeout: -1
-      sleepTiming: Inherit
-      failureBehaviorType: Inherit
-      takeScreenshotConditionType: Inherit
-    action:
-      id: e9ea3d15-4501-488a-a03f-2d876da81f4c
-      source: System
-    parameterMaps:
-    - name: key
-      value: 66
-      direction: Input
-    conditions: []
-    validations: []
-    contexts: []
   - id: 5YV0XfBZZ0Gx-t8Ff09CGw
     enabled: true
     invertResult: false
-    order: 5
+    order: 17
     repeat: 1
     type: Action
     elementId: TapWsqXcw0mzJfoe-Ozaaw
@@ -809,7 +1051,7 @@ auxTests:
   - id: H42oeR3mXUqOnS2lsLd3Cg
     enabled: true
     invertResult: false
-    order: 6
+    order: 18
     repeat: 1
     type: Action
     elementId: _xIo4xfreEykpezzwgvqHg
@@ -829,7 +1071,7 @@ auxTests:
   - id: wC5vmVvUdkOtmyMiqeo87g
     enabled: true
     invertResult: false
-    order: 7
+    order: 19
     repeat: 1
     type: Action
     elementId: Ov1NrknS2Eae_8eya6uHjw
@@ -849,7 +1091,7 @@ auxTests:
   - id: ubJEVl_ySEOECLVjNvB0nw
     enabled: true
     invertResult: false
-    order: 8
+    order: 20
     repeat: 1
     type: Action
     elementId: Ov1NrknS2Eae_8eya6uHjw
@@ -872,7 +1114,7 @@ auxTests:
   - id: 5F0N4YhvHEuzjO6eDnDd_Q
     enabled: true
     invertResult: false
-    order: 9
+    order: 21
     repeat: 1
     type: Action
     elementId: 2TjKg_xpqUmBW9M60SB17g
@@ -892,7 +1134,7 @@ auxTests:
   - id: sBHY3KPTOk-X8EgfrO2J7A
     enabled: true
     invertResult: false
-    order: 10
+    order: 22
     repeat: 1
     type: Action
     elementId: tBEuOG14SUepAO0c1XGoaA
@@ -939,120 +1181,6 @@ elements:
     priority: 2
   - name: XPATH
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.LinearLayout[2]/android.widget.TextView[1]
-    priority: 3
-- id: dzYB7Erog02LIr_FDCJ7SQ
-  name: Email
-  type:
-    id: jUwODgyNjAyNzk2NTk3MTM
-    name: android.widget.EditText
-    source: System
-  locators:
-  - name: ID
-    value: com.clari:id/pre_login_email
-    priority: 0
-  - name: XPATH
-    value: //android.widget.EditText[@text = 'Email']
-    priority: 1
-  - name: XPATH
-    value: //android.widget.EditText
-    priority: 2
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.EditText[1]
-    priority: 3
-- id: TapWsqXcw0mzJfoe-Ozaaw
-  name: NEXT
-  type:
-    id: jUwODgyNjAyNzk2NTk3NTE
-    name: android.widget.TextView
-    source: System
-  locators:
-  - name: ID
-    value: com.clari:id/pre_login_next_button
-    priority: 0
-  - name: XPATH
-    value: //android.widget.TextView[@text = 'NEXT']
-    priority: 1
-  - name: XPATH
-    value: //android.widget.TextView[2]
-    priority: 2
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[2]
-    priority: 3
-- id: _xIo4xfreEykpezzwgvqHg
-  name: Enter Your Password
-  type:
-    id: jUwODgyNjAyNzk2NTk3NTE
-    name: android.widget.TextView
-    source: System
-  locators:
-  - name: ID
-    value: com.clari:id/sign_in_enter_password_text
-    priority: 0
-  - name: XPATH
-    value: //android.widget.TextView[@text = 'Enter Your Password']
-    priority: 1
-  - name: XPATH
-    value: //android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView[2]
-    priority: 2
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[2]
-    priority: 3
-- id: Ov1NrknS2Eae_8eya6uHjw
-  name: Password
-  type:
-    id: jUwODgyNjAyNzk2NTk3MTM
-    name: android.widget.EditText
-    source: System
-  locators:
-  - name: ID
-    value: com.clari:id/sign_in_password_text
-    priority: 0
-  - name: XPATH
-    value: //android.widget.EditText[@text = 'Password']
-    priority: 1
-  - name: XPATH
-    value: //android.widget.EditText
-    priority: 2
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.EditText[1]
-    priority: 3
-- id: 2TjKg_xpqUmBW9M60SB17g
-  name: OK
-  type:
-    id: jUwODgyNjAyNzk2NTk3NTE
-    name: android.widget.TextView
-    source: System
-  locators:
-  - name: ID
-    value: com.clari:id/sign_in_button
-    priority: 0
-  - name: XPATH
-    value: //android.widget.TextView[@text = 'OK']
-    priority: 1
-  - name: XPATH
-    value: //android.widget.RelativeLayout/android.widget.TextView
-    priority: 2
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.TextView[1]
-    priority: 3
-- id: tBEuOG14SUepAO0c1XGoaA
-  name: MY FORECAST (CURRENT QUARTER)
-  type:
-    id: jUwODgyNjAyNzk2NTk3NTE
-    name: android.widget.TextView
-    source: System
-  locators:
-  - name: ID
-    value: com.clari:id/forecast_pod_title
-    priority: 0
-  - name: XPATH
-    value: //android.widget.TextView[@text = 'MY FORECAST (CURRENT QUARTER)']
-    priority: 1
-  - name: XPATH
-    value: //android.widget.RelativeLayout/android.widget.TextView
-    priority: 2
-  - name: XPATH
-    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.TextView[1]
     priority: 3
 - id: ZRggahr96kmbM1pDzHg8Gg
   name: Show All Dashboards (43)
@@ -1309,6 +1437,206 @@ elements:
   - name: XPATH
     value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.ImageView[2]
     priority: 2
+- id: NDeEejhg8EGc8yLbm5AjVA
+  name: com.clari:id/pre_login_clari_logo
+  type:
+    id: jUwODgyNjAyNzk2NTk3MjI
+    name: android.widget.ImageView
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/pre_login_clari_logo
+    priority: 0
+  - name: XPATH
+    value: //android.widget.ImageView
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ImageView[1]
+    priority: 2
+- id: rsdCGvXntUydYbn9OV2zYA
+  name: https://gateway-steelix.clari.com
+  type:
+    id: jUwODgyNjAyNzk2NTk3NTE
+    name: android.widget.TextView
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.TextView[@text = 'https://gateway-steelix.clari.com']
+    priority: 0
+  - name: XPATH
+    value: //android.widget.LinearLayout[1]/android.widget.RelativeLayout/android.widget.TextView[2]
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[2]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.ListView[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.TextView[2]
+    priority: 2
+- id: We60zkl0UkmgGNhjtgxfjA
+  name: https://gateway-steelix.clari.com1
+  type:
+    id: jUwODgyNjAyNzk2NTk3MTM
+    name: android.widget.EditText
+    source: System
+  locators:
+  - name: ID
+    value: android:id/edit
+    priority: 0
+  - name: XPATH
+    value: //android.widget.EditText[@text = 'https://gateway-steelix.clari.com']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.EditText
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.EditText[1]
+    priority: 3
+- id: qxZTvmffs0-QNNQC-A9d8w
+  name: REPLACE
+  type:
+    id: jUwODgyNjAyNzk2NTk4NDU
+    name: android.widget.Button
+    source: System
+  locators:
+  - name: ID
+    value: android:id/button1
+    priority: 0
+  - name: XPATH
+    value: //android.widget.Button[@text = 'REPLACE']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.Button[2]
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.ScrollView[1]/android.widget.LinearLayout[1]/android.widget.Button[2]
+    priority: 3
+- id: 3Pqso6oFTUusWuvNDQPRqQ
+  name: Navigate up
+  type:
+    id: jUwODgyNjAyNzk2NTk3MjA
+    name: android.widget.ImageButton
+    source: System
+  locators:
+  - name: XPATH
+    value: //android.widget.ImageButton[@content-desc = 'Navigate up']
+    priority: 0
+  - name: XPATH
+    value: //android.widget.ImageButton
+    priority: 1
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.ImageButton[1]
+    priority: 2
+- id: dzYB7Erog02LIr_FDCJ7SQ
+  name: Email
+  type:
+    id: jUwODgyNjAyNzk2NTk3MTM
+    name: android.widget.EditText
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/pre_login_email
+    priority: 0
+  - name: XPATH
+    value: //android.widget.EditText[@text = 'Email']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.EditText
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.EditText[1]
+    priority: 3
+- id: TapWsqXcw0mzJfoe-Ozaaw
+  name: NEXT
+  type:
+    id: jUwODgyNjAyNzk2NTk3NTE
+    name: android.widget.TextView
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/pre_login_next_button
+    priority: 0
+  - name: XPATH
+    value: //android.widget.TextView[@text = 'NEXT']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.TextView[2]
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[2]
+    priority: 3
+- id: _xIo4xfreEykpezzwgvqHg
+  name: Enter Your Password
+  type:
+    id: jUwODgyNjAyNzk2NTk3NTE
+    name: android.widget.TextView
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/sign_in_enter_password_text
+    priority: 0
+  - name: XPATH
+    value: //android.widget.TextView[@text = 'Enter Your Password']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView[2]
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[2]
+    priority: 3
+- id: Ov1NrknS2Eae_8eya6uHjw
+  name: Password
+  type:
+    id: jUwODgyNjAyNzk2NTk3MTM
+    name: android.widget.EditText
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/sign_in_password_text
+    priority: 0
+  - name: XPATH
+    value: //android.widget.EditText[@text = 'Password']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.EditText
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.EditText[1]
+    priority: 3
+- id: 2TjKg_xpqUmBW9M60SB17g
+  name: OK
+  type:
+    id: jUwODgyNjAyNzk2NTk3NTE
+    name: android.widget.TextView
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/sign_in_button
+    priority: 0
+  - name: XPATH
+    value: //android.widget.TextView[@text = 'OK']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.RelativeLayout/android.widget.TextView
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.TextView[1]
+    priority: 3
+- id: tBEuOG14SUepAO0c1XGoaA
+  name: MY FORECAST (CURRENT QUARTER)
+  type:
+    id: jUwODgyNjAyNzk2NTk3NTE
+    name: android.widget.TextView
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/forecast_pod_title
+    priority: 0
+  - name: XPATH
+    value: //android.widget.TextView[@text = 'MY FORECAST (CURRENT QUARTER)']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.RelativeLayout/android.widget.TextView
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/androidx.recyclerview.widget.RecyclerView[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.TextView[1]
+    priority: 3
 projectParameters: []
 addons:
 - id: 3nqfr8Djt0KB-sz43jU-0g
