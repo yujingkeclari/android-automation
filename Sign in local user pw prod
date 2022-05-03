@@ -1,7 +1,7 @@
-id: Lahtk1cbXketb0dbd30BBg
+id: jfEsxIpmekiYGD26t4tbbg
 projectId: ZzuNUCJAo0SJCrwqbM9SHQ
 projectName: Android Automation
-created: 2022-05-03T20:10:55.3629742Z
+created: 2022-05-03T20:14:33.0395352Z
 protocol: 1
 tests:
 - id: VapLTrsWekCs7DqNB64VIA
@@ -12,9 +12,10 @@ tests:
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-05-03T20:10:55.0000000
-  modificationDate: 2022-05-03T20:10:55.0000000
+  modificationDate: 2022-05-03T20:14:07.0000000
   settings:
     automationAssistant: true
+    deviceId: R5CRC2BN6GZ
     appId: N74yUWv4JkW0BQYyDBNz1A
     stepSleepTime: 500
     stepTimeout: 15000
@@ -48,8 +49,252 @@ tests:
     conditions: []
     validations: []
     contexts: []
-  parameters: []
+  - id: fWDhu-pVskm1wt5YGiqRXA
+    enabled: true
+    invertResult: false
+    order: 2
+    repeat: 1
+    type: Action
+    elementId: dzYB7Erog02LIr_FDCJ7SQ
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: M19VzlaZn0KRBiMW4UvoGg
+    enabled: true
+    invertResult: false
+    order: 3
+    repeat: 1
+    type: Action
+    elementId: dzYB7Erog02LIr_FDCJ7SQ
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 6f94fdaa-0041-4265-b73b-ecfcbe702d66
+      source: System
+    parameterMaps:
+    - name: keys
+      value: bat@qa2.clari.com
+      direction: Input
+    conditions: []
+    validations: []
+    contexts: []
+  - id: C77lVxns3060t4V0-Mya7Q
+    enabled: true
+    invertResult: false
+    order: 4
+    repeat: 1
+    type: Action
+    elementId: TapWsqXcw0mzJfoe-Ozaaw
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: uk6tJ8nLW0aYN4pxwVzxlA
+    enabled: true
+    invertResult: false
+    order: 5
+    repeat: 1
+    type: Action
+    elementId: _xIo4xfreEykpezzwgvqHg
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: zG2TX9AsgEGSx5tGz3Hy_g
+    enabled: true
+    invertResult: false
+    order: 6
+    repeat: 1
+    type: Action
+    elementId: Ov1NrknS2Eae_8eya6uHjw
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: Hg3qcN7X_0ep7Z99ITkMdA
+    enabled: true
+    invertResult: false
+    order: 7
+    repeat: 1
+    type: Action
+    elementId: Ov1NrknS2Eae_8eya6uHjw
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 6f94fdaa-0041-4265-b73b-ecfcbe702d66
+      source: System
+    parameterMaps:
+    - name: keys
+      value: '{{batpw}}'
+      direction: Input
+    conditions: []
+    validations: []
+    contexts: []
+  - id: qmLOX7KLn0aqHs4v-7MWTw
+    enabled: true
+    invertResult: false
+    order: 8
+    repeat: 1
+    type: Action
+    elementId: 2TjKg_xpqUmBW9M60SB17g
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  parameters:
+  - name: batpw
+    description: ''
+    type: Input
 auxTests: []
-elements: []
+elements:
+- id: dzYB7Erog02LIr_FDCJ7SQ
+  name: Email
+  type:
+    id: jUwODgyNjAyNzk2NTk3MTM
+    name: android.widget.EditText
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/pre_login_email
+    priority: 0
+  - name: XPATH
+    value: //android.widget.EditText[@text = 'Email']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.EditText
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.EditText[1]
+    priority: 3
+- id: TapWsqXcw0mzJfoe-Ozaaw
+  name: NEXT
+  type:
+    id: jUwODgyNjAyNzk2NTk3NTE
+    name: android.widget.TextView
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/pre_login_next_button
+    priority: 0
+  - name: XPATH
+    value: //android.widget.TextView[@text = 'NEXT']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.TextView[2]
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[2]
+    priority: 3
+- id: _xIo4xfreEykpezzwgvqHg
+  name: Enter Your Password
+  type:
+    id: jUwODgyNjAyNzk2NTk3NTE
+    name: android.widget.TextView
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/sign_in_enter_password_text
+    priority: 0
+  - name: XPATH
+    value: //android.widget.TextView[@text = 'Enter Your Password']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView[2]
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.TextView[2]
+    priority: 3
+- id: Ov1NrknS2Eae_8eya6uHjw
+  name: Password
+  type:
+    id: jUwODgyNjAyNzk2NTk3MTM
+    name: android.widget.EditText
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/sign_in_password_text
+    priority: 0
+  - name: XPATH
+    value: //android.widget.EditText[@text = 'Password']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.EditText
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.EditText[1]
+    priority: 3
+- id: 2TjKg_xpqUmBW9M60SB17g
+  name: OK
+  type:
+    id: jUwODgyNjAyNzk2NTk3NTE
+    name: android.widget.TextView
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/sign_in_button
+    priority: 0
+  - name: XPATH
+    value: //android.widget.TextView[@text = 'OK']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.RelativeLayout/android.widget.TextView
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.TextView[1]
+    priority: 3
 projectParameters: []
 addons: []
