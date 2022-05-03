@@ -1,7 +1,7 @@
-id: 7kH415JKe0ugfjIUZBdZpw
+id: YzYkZGtjwUqFZS4pEZzE6w
 projectId: ZzuNUCJAo0SJCrwqbM9SHQ
 projectName: Android Automation
-created: 2022-05-03T19:41:05.5764103Z
+created: 2022-05-03T20:06:33.5629300Z
 protocol: 1
 tests:
 - id: OwRTzv4Hk02hiWaoTdMLCg
@@ -12,7 +12,7 @@ tests:
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-05-03T19:41:05.0000000
-  modificationDate: 2022-05-03T19:41:05.0000000
+  modificationDate: 2022-05-03T19:44:49.0000000
   settings:
     automationAssistant: true
     appId: N74yUWv4JkW0BQYyDBNz1A
@@ -48,8 +48,109 @@ tests:
     conditions: []
     validations: []
     contexts: []
+  - id: fUwljePpGkiHbiL-T2AZmQ
+    enabled: true
+    invertResult: false
+    order: 2
+    repeat: 1
+    type: Action
+    elementId: nPFhhPiTZEadU9IJd9hW1A
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: rh8t1Y7eakeazHB2BU92ZQ
+    enabled: true
+    invertResult: false
+    order: 3
+    repeat: 1
+    type: Action
+    elementId: BblhkwtPVUWecwMS16N7uA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 02d572b2-d610-4700-9ad3-40076ddb9807
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  - id: wWbUbM7LmEixOstsEaeGSw
+    enabled: true
+    invertResult: false
+    order: 4
+    repeat: 1
+    type: Action
+    elementId: BblhkwtPVUWecwMS16N7uA
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 6f94fdaa-0041-4265-b73b-ecfcbe702d66
+      source: System
+    parameterMaps:
+    - name: keys
+      value: apple
+      direction: Input
+    conditions: []
+    validations: []
+    contexts: []
   parameters: []
 auxTests: []
-elements: []
+elements:
+- id: nPFhhPiTZEadU9IJd9hW1A
+  name: Search1
+  type:
+    id: jUwODgyNjAyNzk2NTk3NTE
+    name: android.widget.TextView
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/action_search
+    priority: 0
+  - name: XPATH
+    value: //android.widget.TextView[@content-desc = 'Search']
+    priority: 1
+  - name: XPATH
+    value: //androidx.appcompat.widget.LinearLayoutCompat/android.widget.TextView[1]
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/androidx.appcompat.widget.LinearLayoutCompat[1]/android.widget.TextView[1]
+    priority: 3
+- id: BblhkwtPVUWecwMS16N7uA
+  name: Search for opportunities
+  type:
+    id: jUwODgyNjAyNzk2NTk3MTM
+    name: android.widget.EditText
+    source: System
+  locators:
+  - name: ID
+    value: com.clari:id/search_et
+    priority: 0
+  - name: XPATH
+    value: //android.widget.EditText[@text = 'Search for opportunities']
+    priority: 1
+  - name: XPATH
+    value: //android.widget.EditText
+    priority: 2
+  - name: XPATH
+    value: //android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.ViewGroup[1]/android.view.ViewGroup[1]/android.widget.EditText[1]
+    priority: 3
 projectParameters: []
 addons: []
