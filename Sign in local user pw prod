@@ -1,0 +1,55 @@
+id: Lahtk1cbXketb0dbd30BBg
+projectId: ZzuNUCJAo0SJCrwqbM9SHQ
+projectName: Android Automation
+created: 2022-05-03T20:10:55.3629742Z
+protocol: 1
+tests:
+- id: VapLTrsWekCs7DqNB64VIA
+  name: Sign in local user pw prod
+  description: ''
+  platform: Android
+  type: Mobile
+  driverType: Appium_Android
+  version: 0.1
+  creationDate: 2022-05-03T20:10:55.0000000
+  modificationDate: 2022-05-03T20:10:55.0000000
+  settings:
+    automationAssistant: true
+    appId: N74yUWv4JkW0BQYyDBNz1A
+    stepSleepTime: 500
+    stepTimeout: 15000
+    stepSleepTiming: Before
+    stepFailureBehaviorType: Abort
+    stepTakeScreenshotConditionType: Failure
+  application:
+    id: N74yUWv4JkW0BQYyDBNz1A
+    androidActivity: com.clari.ClariLandingActivity
+    androidPackage: com.clari
+    name: Clari2.4.20
+    platform: Android
+  steps:
+  - id: jbgET07c6UaBcOSuljhS1g
+    comments: Clear application data and restart (Auto-generated)
+    enabled: true
+    invertResult: false
+    order: 1
+    repeat: 1
+    type: Action
+    settings:
+      sleepTime: -1
+      timeout: -1
+      sleepTiming: Inherit
+      failureBehaviorType: Inherit
+      takeScreenshotConditionType: Inherit
+    action:
+      id: 1b89acc3-5003-4ae6-a8c1-c1732e09ef45
+      source: System
+    parameterMaps: []
+    conditions: []
+    validations: []
+    contexts: []
+  parameters: []
+auxTests: []
+elements: []
+projectParameters: []
+addons: []
