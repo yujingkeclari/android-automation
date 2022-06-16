@@ -1,7 +1,7 @@
-id: pfOVzs0_QUaRYQe0PdKL8Q
+id: DDowoJK1REihXZWczc8qfA
 projectId: ZzuNUCJAo0SJCrwqbM9SHQ
 projectName: Android Automation
-created: 2022-05-25T05:18:22.3119466Z
+created: 2022-06-16T14:03:45.1626957Z
 protocol: 1
 tests:
 - id: 8Y-UlKFXtEivhX5OpVHiEw
@@ -12,21 +12,21 @@ tests:
   driverType: Appium_Android
   version: 0.1
   creationDate: 2022-05-25T05:17:22.0000000
-  modificationDate: 2022-05-25T05:18:22.0000000
+  modificationDate: 2022-06-16T14:03:45.0000000
   settings:
     automationAssistant: true
     deviceId: R5CRC2BN6GZ
-    appId: Cgve8BDeSEi94ISEo-7pig
+    appId: fJuOYxQGYkCveECIxkDybA
     stepSleepTime: 500
     stepTimeout: 15000
     stepSleepTiming: Before
     stepFailureBehaviorType: Abort
     stepTakeScreenshotConditionType: Failure
   application:
-    id: Cgve8BDeSEi94ISEo-7pig
-    name: Clari-2.4.24
+    id: fJuOYxQGYkCveECIxkDybA
+    name: Bitrise Android
     platform: Android
-    hash: 7427905c5053b6c96161062cc569b2bf
+    hash: df0e39bb9f94fd0127357ac2f942e76e
   steps:
   - id: 1WlgIIg9FUmOL7yYmEdX2A
     comments: Clear application data and restart (Auto-generated)
